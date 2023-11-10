@@ -1,0 +1,96 @@
+font:
+  normal:
+    family: MesloLGS NF
+    style:  Bold
+  size: 10
+window:
+  padding:
+   x: 12
+   y: 12
+cursor:
+  style:
+    shape: Beam
+    blinking: Always
+  blink_interval: 500
+  thickness: 0.2
+   
+schemes:
+  tokyo-night: &tokyo-night
+    primary:
+      background: '#1a1b26'
+      foreground: '#a9b1d6'
+      
+  normal:
+    black:   '0x100e23'
+    red:     '0xff8080'
+    green:   '0x95ffa4'
+    yellow:  '0xffe9aa'
+    blue:    '0x91ddff'
+    magenta: '0xc991e1'
+    cyan:    '0xaaffe4'
+    white:   '0xcbe3e7'
+
+  # Bright colors
+  bright:
+    black:   '0x565575'
+    red:     '0xff5458'
+    green:   '0x62d196'
+    yellow:  '0xffb378'
+    blue:    '0x65b2ff'
+    magenta: '0x906cff'
+    cyan:    '0x63f2f1'
+    white:   '0xa6b3cc'
+colors: *tokyo-night
+
+
+######DRACULA#######3
+######DRACULA#######3
+######DRACULA#######3
+
+
+
+
+font:
+  normal:
+    family: MesloLGS NF
+    style:  Bold
+  size: 10
+window:
+  padding:
+   x: 12
+   y: 12
+cursor:
+  style:
+    shape: Beam
+    blinking: Always
+  blink_interval: 500
+  thickness: 0.2
+
+colors:
+  # Default colors
+  primary:
+    background: '0x282a36'
+    foreground: '0xf8f8f2'
+
+  # Normal colors
+  normal:
+    black:   '0x21222c'
+    red:     '0xff5555'
+    green:   '0x50fa7b'
+    yellow:  '0xf1fa8c'
+    blue:    '0xbd93f9'
+    magenta: '0xff79c6'
+    cyan:    '0x8be9fd'
+    white:   '0xf8f8f2'
+
+  # Bright colors
+  bright:
+    black:   '0x6272a4'
+    red:     '0xff6e6e'
+    green:   '0x69ff94'
+    yellow:  '0xffffa5'
+    blue:    '0xcaa9fa'
+    magenta: '0xff92d0'
+    cyan:    '0x9aedfe'
+    white:   '0xe6e6e6'
+
